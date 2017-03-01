@@ -1,20 +1,22 @@
 pages:
   - Home:
     - Introduction: index.md
-  - Software:
-    - Overview: software/index.md
-    - Release Notes: software/releasenotes.md
-    - Testing Guidelines: software/testingguidelines.md
-    - Contributing: contributing.md
-    - Getting Help: help.md
-  - Overview:
-    - Data Protection: data_protection.md
-    - Contributors: contributors.md
-    - References: references.md
-    - License: license.md
-  - mCerebrum:
-    - Overview: mCerebrum/overview.md
-    - Getting Started: mCerebrum/gettingStarted.md
+  - Smartphone Software:
+    - Overview: smartphone/index.md
+    - Getting Started: smartphone/gettingStarted.md
+    - User Interface:
+    - Troubleshooting:
+  - Cloud Software:
+    - Overview: cloud/index.md
+    - Getting Started:
+    - Troubleshooting:
+    - API: cerebralcortex/api.md
+  - Sensors:
+    - Supported Sensors: sensors/index.md
+    - Adding Sensors:
+    - Troubleshooting: sensors/troubleshooting.md
+  - Adopt MD2K:
+    - Overview: adopt/index.md
     - Configurations: mCerebrum/configurations.md
     - Configuration-mCerebrum: mCerebrum/configuration-mCerebrum.md
     - Configuration-DataKit: mCerebrum/configuration-datakit.md
@@ -22,11 +24,16 @@ pages:
     - Configuration-Plotter: mCerebrum/configuration-plotter.md
     - Configuration-EMA: mCerebrum/configuration-ema.md
     - Configuration-EMA Scheduler: mCerebrum/configuration-emascheduler.md
-    - Troubleshooting: mCerebrum/troubleshooting.md
-  - Cerebral Cortex:
-    - Overview: cerebralcortex/index.md
-    - API: cerebralcortex/api.md
-  - Feedback: feedback.md
+  - Current Uses:
+    - Deployments: currentuses/index.md
+  - Other Resources:
+    - Helpful Links: resources/index.md
+    - Data Protection: resources/dataProtection.md
+    - Testing Guidelines: resources/testingGuidelines.md
+    - Contributors: resources/contributors.md
+    - References: resources/references.md
+    - License: resources/license.md
+  - Get Involved: feedback.md
 
 extra:
   palette:
