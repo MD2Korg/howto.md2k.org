@@ -1,5 +1,5 @@
 # Getting Started
-mCerebrum is a suite of several Android applications that are combined with a set of configuration files. All source code is available in [MD2K's GitHub organization](https://github.com/MD2Korg).
+mCerebrum is a suite of several Android applications that are combined with a set of configuration files. All source code is available at [MD2K's GitHub organization](https://github.com/MD2Korg).
 
 These instructions will guide you in downloading, installing, and configuring the mCerebrum software suite using the default configuration to collect **phone sensor data**.
 
