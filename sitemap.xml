@@ -14,31 +14,25 @@
     
         
     <url>
-     <loc>http://docs.md2k.org//software/</loc>
+     <loc>http://docs.md2k.org//smartphone/</loc>
      <lastmod>2017-03-01</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>http://docs.md2k.org//software/releasenotes/</loc>
+     <loc>http://docs.md2k.org//smartphone/gettingStarted/</loc>
      <lastmod>2017-03-01</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>http://docs.md2k.org//software/testingguidelines/</loc>
+     <loc>http://docs.md2k.org//smartphone/</loc>
      <lastmod>2017-03-01</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>http://docs.md2k.org//contributing/</loc>
-     <lastmod>2017-03-01</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>http://docs.md2k.org//help/</loc>
+     <loc>http://docs.md2k.org//smartphone/</loc>
      <lastmod>2017-03-01</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -48,89 +42,25 @@
     
         
     <url>
-     <loc>http://docs.md2k.org//data_protection/</loc>
+     <loc>http://docs.md2k.org//cloud/</loc>
      <lastmod>2017-03-01</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>http://docs.md2k.org//contributors/</loc>
+     <loc>http://docs.md2k.org//cloud/</loc>
      <lastmod>2017-03-01</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>http://docs.md2k.org//references/</loc>
+     <loc>http://docs.md2k.org//cloud/</loc>
      <lastmod>2017-03-01</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>http://docs.md2k.org//license/</loc>
-     <lastmod>2017-03-01</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    
-
-    
-        
-    <url>
-     <loc>http://docs.md2k.org//mCerebrum/overview/</loc>
-     <lastmod>2017-03-01</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>http://docs.md2k.org//mCerebrum/gettingStarted/</loc>
-     <lastmod>2017-03-01</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>http://docs.md2k.org//mCerebrum/configurations/</loc>
-     <lastmod>2017-03-01</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>http://docs.md2k.org//mCerebrum/configuration-mCerebrum/</loc>
-     <lastmod>2017-03-01</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>http://docs.md2k.org//mCerebrum/configuration-datakit/</loc>
-     <lastmod>2017-03-01</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>http://docs.md2k.org//mCerebrum/configuration-sensors/</loc>
-     <lastmod>2017-03-01</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>http://docs.md2k.org//mCerebrum/configuration-plotter/</loc>
-     <lastmod>2017-03-01</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>http://docs.md2k.org//mCerebrum/configuration-ema/</loc>
-     <lastmod>2017-03-01</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>http://docs.md2k.org//mCerebrum/configuration-emascheduler/</loc>
-     <lastmod>2017-03-01</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>http://docs.md2k.org//mCerebrum/troubleshooting/</loc>
+     <loc>http://docs.md2k.org//cloud/api/</loc>
      <lastmod>2017-03-01</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -140,13 +70,121 @@
     
         
     <url>
-     <loc>http://docs.md2k.org//cerebralcortex/</loc>
+     <loc>http://docs.md2k.org//sensors/</loc>
      <lastmod>2017-03-01</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>http://docs.md2k.org//cerebralcortex/api/</loc>
+     <loc>http://docs.md2k.org//sensors/</loc>
+     <lastmod>2017-03-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://docs.md2k.org//sensors/troubleshooting/</loc>
+     <lastmod>2017-03-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>http://docs.md2k.org//adopt/</loc>
+     <lastmod>2017-03-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://docs.md2k.org//adopt/configurations/</loc>
+     <lastmod>2017-03-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://docs.md2k.org//adopt/configuration-mCerebrum/</loc>
+     <lastmod>2017-03-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://docs.md2k.org//adopt/configuration-datakit/</loc>
+     <lastmod>2017-03-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://docs.md2k.org//adopt/configuration-sensors/</loc>
+     <lastmod>2017-03-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://docs.md2k.org//adopt/configuration-plotter/</loc>
+     <lastmod>2017-03-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://docs.md2k.org//adopt/configuration-ema/</loc>
+     <lastmod>2017-03-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://docs.md2k.org//adopt/configuration-emascheduler/</loc>
+     <lastmod>2017-03-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>http://docs.md2k.org//currentuses/</loc>
+     <lastmod>2017-03-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>http://docs.md2k.org//resources/</loc>
+     <lastmod>2017-03-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://docs.md2k.org//resources/dataProtection/</loc>
+     <lastmod>2017-03-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://docs.md2k.org//resources/testingGuidelines/</loc>
+     <lastmod>2017-03-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://docs.md2k.org//resources/contributors/</loc>
+     <lastmod>2017-03-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://docs.md2k.org//resources/references/</loc>
+     <lastmod>2017-03-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://docs.md2k.org//resources/license/</loc>
      <lastmod>2017-03-01</lastmod>
      <changefreq>daily</changefreq>
     </url>
