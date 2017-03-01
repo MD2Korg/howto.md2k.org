@@ -1,29 +1,26 @@
 language: python
 python: '3.4'
-
 env:
   global:
-    secure: ARhvI63WvH5RdWZUBScrsdtOVDu00ETv33Dq36LD0N9r2oBKoXC8RSepKBagFPDEIEsdh8P3GYdIHllS0uHxOZfPxr+WOnGFSAGTsxBrESxl6wRGKqlEQBsA7V8WXKb62kiFBmG3N8YuCeuF1glwm2lr4/N25sknYRzae0xwSc6//abzmJSAQgPqP5bSQ7ZQab9HUXodPFw0sB79Lr35mOARKF8/7TE7JclxsDkRTf2jMhXUvE2qQWgS08Jw8EUn+7O/ZN4tl6fsXxDp/YAYDPe3nIvtdviB1DmAemJRKvlC5dDJC0lumW9SzAckEKubp6OhMTlepo8E4jY43htCI33jTW0gN9kvWUyEQ+DI3bv3IIGJZYyQBc3C85yNc+hATrjCCgXBM6pN2DtzHfPcQR6or4xca9lRPbw9oRmbn8kH1NzGEajz2rhzDNQ3vl7a++qy9teews1S1uJUvMT98UQLJV70bkguAd3oJ5pnYNpjR3PLJB7O3zQcKbHURrNlGkUZRlHWK9SRkTFJFzM8kKa4FpZzsisZYALTVnS/fJ+kTpe2TWf79rdpX7hXY5Ayaq8AMCmOC017YlHFTnFg0XtQjKPV9/Da8wLv1FwbIjLBaSTUAE4oWeMXiDvQpOK1i8f8PBtn2qZOBA8+TlXRweuGKtDzEILz0Kv+z/qzC3g=
-
+  - secure: ARhvI63WvH5RdWZUBScrsdtOVDu00ETv33Dq36LD0N9r2oBKoXC8RSepKBagFPDEIEsdh8P3GYdIHllS0uHxOZfPxr+WOnGFSAGTsxBrESxl6wRGKqlEQBsA7V8WXKb62kiFBmG3N8YuCeuF1glwm2lr4/N25sknYRzae0xwSc6//abzmJSAQgPqP5bSQ7ZQab9HUXodPFw0sB79Lr35mOARKF8/7TE7JclxsDkRTf2jMhXUvE2qQWgS08Jw8EUn+7O/ZN4tl6fsXxDp/YAYDPe3nIvtdviB1DmAemJRKvlC5dDJC0lumW9SzAckEKubp6OhMTlepo8E4jY43htCI33jTW0gN9kvWUyEQ+DI3bv3IIGJZYyQBc3C85yNc+hATrjCCgXBM6pN2DtzHfPcQR6or4xca9lRPbw9oRmbn8kH1NzGEajz2rhzDNQ3vl7a++qy9teews1S1uJUvMT98UQLJV70bkguAd3oJ5pnYNpjR3PLJB7O3zQcKbHURrNlGkUZRlHWK9SRkTFJFzM8kKa4FpZzsisZYALTVnS/fJ+kTpe2TWf79rdpX7hXY5Ayaq8AMCmOC017YlHFTnFg0XtQjKPV9/Da8wLv1FwbIjLBaSTUAE4oWeMXiDvQpOK1i8f8PBtn2qZOBA8+TlXRweuGKtDzEILz0Kv+z/qzC3g=
+  - secure: KPpTEDWT2IsJSBllLyufpRhUUS2k2uWSY26w6b77OwAVZTVR/8Rm2DINwL//gKNsgGrprQr+knhdSdWFwv1CN2/8GniU5rx3lKUyrF7hQ1MxW4lBgBfcdS1PaQNKMIqX+4xa/KjiQ01lvDctD8/CUveAiz/O5UFu9SV0JKDE+cZpbylCvNpkHhN08LN8WbRtG03aXd7tAVgc6l8XCbISEf27pOAqpnZrwpMaUtStWx0VZcARblVI7TMzCGg6ybqc2nK89HdAS73r5RTQIPIFaHbezVCsg3iGVsnY6w651W8RZvn0SyQ2aQ4QzMcb4B0nbMsK7WwstA7NKf/jMwF6QybF8W4fBJEEMlsfUCMja4xS9wySmLc3b2igSOHFkwA0ihDM5+CwW3cQ4QVil83UpD4qYUvh2QjNEuNhqXv7aUulFf9/AA8Z0dJ6jgd1fkCN/W6StkDhUznYLY8TPZ9ML4ftgTXY0+yuhw/sKl3+dvQDd5LxJWG7XohYGv3rZPBXPP31pCkYPcAkH0hk/uwMf0ynbCz+WFlsqniW497hahZyy0XKj9XdoWkQE3zODAK6/CEnjaQzZr/pEkfCnMGEhEQbnlybKhC8E/qZvAAr+5VxSy2LZdz2t3styQe0+ewDLOnr77oT+phUIFnNeVRZankd9Lw/E61IzVIn8RFGs+M=
+  - secure: E0zFElPlDnWRV/fWlCmwEhKJ+v1QNNvz0j5PCNkvdXgEuIXIrbsyKoC8v4qSjTK57wDb9fU1RQ4OqN2rsftQr3RByJMbgLoE7BXF37kXmnTHXiT023YBSafFVX+BOblOiOx1OChhvTAdsW57CU++z5GazoJjrY8HQxctWa5E7ALbCDFjG3AdEEarK8zcJKZ9krpUJ9ctlXzwAVpxNeqKvXpnMHSBx83UBbejynuXdz6Zejfc/R8+KDeXdVlQiFjJ9lps0tzUO5aq0IsU4pu3EoCiL66z/yrF5fJbW0rrn5Z+s8mi3f9YOguN0bUcuiJ2jKLc+y5Mdc1FQfF1MdXTYkcm5AbSEG0F+gIJZMiQGiE3Ds2sLl4tEDG76+0Rc0RvriWdEuxY4BvaOOvwtQn5Ciocef5f6syO5Dw0CYTdPFpn2Kq5+51ulaf5IaBecEvTsSfHF1UtRJlEf9/xoFBRuE4UTp27gcMc159Csv2bjxtsSiM9MUTFlmX+dEum9zEfQnSuezmxWKF/Z1A0HlPT+9Y48zVcrV9YXnqHmy63p/RU4cxnUtkkGvHBo5p8TjwY2I2pbmtp8khKTewFqctqDhVoKV0U0KUpwui1KSYulIdrIA25wiCueZCDpEpzxTX8kp0T3DYQcjF0fSxu3bQ01v/B9CL4BfL7BXjWKtBTQ6w=
 before_install:
-  - nvm install 7.3.0
-
+- nvm install 7.3.0
 install:
-  - pip install mkdocs -U
-  - pip install pygments pymdown-extensions 
-  - npm install -g bower
-  - npm install -g gulp
-
+- pip install mkdocs -U
+- pip install pygments pymdown-extensions
+- npm install -g bower
+- npm install -g gulp
 before_script:
-  - cd mkdocs-material && npm install && gulp build --production && cd ..
-
+- cd mkdocs-material && npm install && gulp build --production && cd ..
 script:
-  - mkdocs build
-
+- mkdocs build
 after_success:
-  - git config user.name "Travis CI"
-  - git config user.email "dev@md2k.org"
-  - git remote add gh-token "https://${GH_TOKEN}@github.com/MD2Korg/howto.md2k.org.git";
-  - git fetch gh-token
-  - git checkout gh-token/dev
-  - mkdocs gh-deploy -v --clean --remote-name gh-token -b master -m "Travis CI deployed to master with build $TRAVIS_BUILD_NUMBER"
+- git config user.name "Travis CI"
+- git config user.email "dev@md2k.org"
+- git remote add gh-token "https://${GH_TOKEN}@github.com/MD2Korg/howto.md2k.org.git";
+- git fetch gh-token
+- git checkout gh-token/dev
+- mkdocs gh-deploy -v --clean --remote-name gh-token -b master -m "Travis CI deployed
+  to master with build $TRAVIS_BUILD_NUMBER"
