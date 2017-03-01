@@ -4,26 +4,26 @@ pages:
   - Smartphone Software:
     - Overview: smartphone/index.md
     - Getting Started: smartphone/gettingStarted.md
-    - User Interface:
-    - Troubleshooting:
+    - User Interface: smartphone/index.md
+    - Troubleshooting: smartphone/index.md
   - Cloud Software:
     - Overview: cloud/index.md
-    - Getting Started:
-    - Troubleshooting:
-    - API: cerebralcortex/api.md
+    - Getting Started: cloud/index.md
+    - Troubleshooting: cloud/index.md
+    - API: cloud/api.md
   - Sensors:
     - Supported Sensors: sensors/index.md
-    - Adding Sensors:
+    - Adding Sensors: sensors/index.md
     - Troubleshooting: sensors/troubleshooting.md
   - Adopt MD2K:
     - Overview: adopt/index.md
-    - Configurations: mCerebrum/configurations.md
-    - Configuration-mCerebrum: mCerebrum/configuration-mCerebrum.md
-    - Configuration-DataKit: mCerebrum/configuration-datakit.md
-    - Configuration-Sensors: mCerebrum/configuration-sensors.md
-    - Configuration-Plotter: mCerebrum/configuration-plotter.md
-    - Configuration-EMA: mCerebrum/configuration-ema.md
-    - Configuration-EMA Scheduler: mCerebrum/configuration-emascheduler.md
+    - Configurations: adopt/configurations.md
+    - Configuration-mCerebrum: adopt/configuration-mCerebrum.md
+    - Configuration-DataKit: adopt/configuration-datakit.md
+    - Configuration-Sensors: adopt/configuration-sensors.md
+    - Configuration-Plotter: adopt/configuration-plotter.md
+    - Configuration-EMA: adopt/configuration-ema.md
+    - Configuration-EMA Scheduler: adopt/configuration-emascheduler.md
   - Current Uses:
     - Deployments: currentuses/index.md
   - Other Resources:
