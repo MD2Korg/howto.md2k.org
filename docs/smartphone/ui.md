@@ -32,7 +32,7 @@ Self-Report buttons allow users to report the moment an event such as smoking or
 ![report smoking](../img/buttonReportSmoking.jpg) ![report eating](../img/buttonReportEating.jpg)
 
 ### Data Quality Check
-Use the icons under the Sensor Data Quality heading on the mCerebrum homescreen to quickly monitor the quality of data collection.
+The Sensor Data Quality icons allow users to quickly monitor or verify the quality of data collection.
 
 ![verify data quality icons](../img/verifyQualityIcons.png)
 
@@ -46,7 +46,7 @@ If experiencing bad data quality, you may tap the sensor icon to access a menu t
 
 ### Reset Application
 
-Sometimes resetting the mCerebrum application can quickly fix some sensor data quality issues. Use the Reset App button to streamline the process and reset application features without restarting the entire application. 
+Sometimes resetting the mCerebrum application can quickly fix some sensor data quality issues. Use the Reset App button to streamline the process and reset application features without restarting the entire application.
 
 ![reset app button](../img/buttonResetApp.png)
 

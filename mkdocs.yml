@@ -13,7 +13,7 @@ pages:
     - API: cloud/api.md
   - Sensors:
     - Supported Sensors: sensors/index.md
-    - Adding Sensors: sensors/index.md
+    - Adding Sensors: sensors/addingsensors.md
     - Troubleshooting: sensors/troubleshooting.md
   - Adopt MD2K:
     - Overview: adopt/index.md
