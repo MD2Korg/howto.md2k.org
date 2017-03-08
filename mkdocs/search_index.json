@@ -126,29 +126,59 @@
             "title": "Save Data to a Computer"
         },
         {
-            "location": "/smartphone/",
-            "text": "mCerebrum\n\n\nAn Open Source Software Suite for Mobile Sensor Data\n\n\n\n\n\n\n\nmCerebrum Overview\n\n\nmCerebrum is an open-source mobile software platform that provides support for reliable real-time data collection from sensors in smartphones and wearables.  The software is fully configurable and can be used with multiple sensors simultaneously to collect a wide variety of data at hundreds of data points per second.\n\n\nEven at this high frequency, our software continuously takes steps to evaluate data quality and maintain the integrity of sensor data by using advanced analytics to convert streaming sensor data into markers of health, behavior, and risk factors (such as stress, smoking, eating and activity).\n\n\nWith mCerebrum, these markers obtained from sensor data can be used to trigger mobile interventions or to solicit self-reports. To fulfill the vision of precision medicine, mCerebrum facilitates novel ways to return health data back to the user to improve their engagement, bringing a modern approach to preventative medicine that stays one step ahead in today\u2019s rapidly changing world.\n\n\nList of mCerebrum Apps\n\n\n\n\n\n\n\n\nApplications\n\n\nDownload\n\n\n\n\n\n\n\n\n\n\nmCerebrum (Study)\n\n\nlatest release\n\n\n\n\n\n\nAutoSense\n\n\nlatest release\n\n\n\n\n\n\nMicrosoft Band\n\n\nlatest release\n\n\n\n\n\n\nPhone Sensor\n\n\nlatest release\n\n\n\n\n\n\nStream Processor\n\n\nlatest release\n\n\n\n\n\n\nMood Surfing\n\n\nlatest release\n\n\n\n\n\n\nThought Shakeup\n\n\nlatest release\n\n\n\n\n\n\nEcological Momentary Assessment (EMA)\n\n\nlatest release\n\n\n\n\n\n\nEMA Scheduler\n\n\nlatest release\n\n\n\n\n\n\nNotification Manager\n\n\nlatest release\n\n\n\n\n\n\nData stream plotter\n\n\nlatest release\n\n\n\n\n\n\nDataKit\n\n\nlatest release\n\n\n\n\n\n\n\n\nSoftware Release Schedule\n\n\n\n\nMajor \nX.0.0\n software updates will occur approximately once per year\n\n\nMinor/Feature \n0.X.0\n updates will occur on the third Wednesday of each month\n\n\nCritical bug fixes \n0.0.X\n will be released as needed\n\n\n\n\n\n\n\n\n\n\nYear\n\n\nMonth\n\n\nRelease Day\n\n\n\n\n\n\n\n\n\n\n2017\n\n\nFebruary\n\n\n02/15/2017  (Wed)\n\n\n\n\n\n\n2017\n\n\nMarch\n\n\n03/15/2017  (Wed)\n\n\n\n\n\n\n2017\n\n\nApril\n\n\n04/19/2017  (Wed)\n\n\n\n\n\n\n2017\n\n\nMay\n\n\n05/17/2017  (Wed)\n\n\n\n\n\n\n2017\n\n\nJune\n\n\n06/21/2017  (Wed)\n\n\n\n\n\n\n2017\n\n\nJuly\n\n\n07/18/2017  (Wed)\n\n\n\n\n\n\n2017\n\n\nAugust\n\n\n08/16/2017  (Wed)\n\n\n\n\n\n\n2017\n\n\nSeptember\n\n\n09/20/2017  (Wed)\n\n\n\n\n\n\n2017\n\n\nOctober\n\n\n10/18/2017  (Wed)\n\n\n\n\n\n\n2017\n\n\nNovember\n\n\n11/15/2017  (Wed)\n\n\n\n\n\n\n2017\n\n\nDecember\n\n\n12/20/2017  (Wed)",
+            "location": "/smartphone/ui/",
+            "text": "User Interface\n\n\nThe following is a brief overview of some of the different features found in the user interface of mCerebrum.\n\n\n\n\nVisualize Real-Time Data\n\n\nUsing the Plotter app included with mCerebrum, you can select from a list of available sensors to visualize each set of data in real-time.\n\n\n\n\nThe software displays a real-time plot of whichever data you select. This allows you to easily see if data collection is working as you monitor heart rate, breathing patterns, accelerometers, gyroscopes, and more.\n\n\n\n\nPrivacy\n\n\nPrivacy Control allows users to turn off certain features for a limited period of time.\n\n\n\n\nFrom the mCerebrum home screen, tap the \nTurn On\n button under the Privacy heading to access the privacy settings. From there, you can select which of the various sensor data collections and other features you wish to disable for the amount of time you choose. Simply set the timer and then select which features to disable. You will see a countdown timer, and the features will remain disabled until the timer expires.\n\n\n\n\nAdmin Settings\n\n\nThe following is a brief overview of some of the different features found in the admin settings of mCerebrum.\n\n\nStudy Setup\n\n\n\n\nConfiguration\n\n\n\n\nTap the Settings button (highlighted in red) to begin the setup process.\n\n\nIf prompted to download a configuration file, enter \u201cdefault\u201d and tap OK to use the default mCerebrum configuration file. If you are not prompted, skip this step.\n\n\n\n\nInstall/Update Apps\n\n\nmCerebrum uses a suite of software applications in conjunction with the main mCerebrum interface app. Follow these steps to download the latest versions of all the apps in your configuration of the mCerebrum suite.\n\n\n\n\nFrom the main Settings screen, tap \nConfigure Applications \n Applications\n then tap the Check Updates button at the bottom of the screen.\n\n\nIf any apps listed show a red X icon \n, tap the app in the list then tap \nInstall\n. If any apps listed show a yellow caution icon \n, tap the app in the list then tap \nUpdate\n. (Alternatively, you may tap the \nFix All\n button at the bottom of the screen to begin the installation of all updates at once.)\n\n\nWhen every app shows a green check mark \n, all apps are installed and up-to-date. Tap the \nClose\n button.\n\n\n\n\nSensors Setup\n\n\n\n\nFrom the main Settings screen, tap \nConfigure Applications \n Settings \n PhoneSensor\n.\n\n\nYou will see a list of all the available sensors included with your phone (Battery, Location, Accelerometer, etc.). Tap to toggle on each sensor that you wish to use to collect data.\n\n\nWhen you are finished, tap the \nSave\n button at the bottom of the screen.\n\n\n\n\nNote\n: To ensure high-quality data collection, the GPS feature of the smartphone must be set to High Accuracy Mode in your phone\u2019s main settings (outside of the mCerebrum app).\n\n\nStudy Setup\n\n\n\n\nFrom the main Settings screen, tap \nConfigure Study\n.\n\n\nTap \nUser ID\n and set your desired unique user ID for the participant.\n\n\nTap \nWakeup Time\n and select the time you expect data collection to begin each morning. The participant will receive a prompt to \u201cstart the day\u201d at the time you select.\n\n\nTap \nSleep Time\n and select the time you expect data collection to conclude each day.\n\n\nIf all items on the Study Settings screen show a green check mark beside them, study setup is complete.  Tap the \nSave\n button at the bottom of the screen.\n\n\n\n\nStart Study\n\n\n\n\nFrom the main Settings screen, once Configure Applications and Configure Study show a green checkmark, tap the \nStart Study\n button to begin the study.\n\n\nIf prompted to start the day, tap the \nStart\n button to begin data collection.\n\n\nTap \nClose\n to exit the Settings screen. You should see the mCerebrum home screen below. Once you have tapped to start the day, data collection has begun.",
             "title": "User Interface"
         },
         {
-            "location": "/smartphone/#mcerebrum",
-            "text": "An Open Source Software Suite for Mobile Sensor Data",
-            "title": "mCerebrum"
+            "location": "/smartphone/ui/#user-interface",
+            "text": "The following is a brief overview of some of the different features found in the user interface of mCerebrum.",
+            "title": "User Interface"
         },
         {
-            "location": "/smartphone/#mcerebrum-overview",
-            "text": "mCerebrum is an open-source mobile software platform that provides support for reliable real-time data collection from sensors in smartphones and wearables.  The software is fully configurable and can be used with multiple sensors simultaneously to collect a wide variety of data at hundreds of data points per second.  Even at this high frequency, our software continuously takes steps to evaluate data quality and maintain the integrity of sensor data by using advanced analytics to convert streaming sensor data into markers of health, behavior, and risk factors (such as stress, smoking, eating and activity).  With mCerebrum, these markers obtained from sensor data can be used to trigger mobile interventions or to solicit self-reports. To fulfill the vision of precision medicine, mCerebrum facilitates novel ways to return health data back to the user to improve their engagement, bringing a modern approach to preventative medicine that stays one step ahead in today\u2019s rapidly changing world.",
-            "title": "mCerebrum Overview"
+            "location": "/smartphone/ui/#visualize-real-time-data",
+            "text": "Using the Plotter app included with mCerebrum, you can select from a list of available sensors to visualize each set of data in real-time.   The software displays a real-time plot of whichever data you select. This allows you to easily see if data collection is working as you monitor heart rate, breathing patterns, accelerometers, gyroscopes, and more.",
+            "title": "Visualize Real-Time Data"
         },
         {
-            "location": "/smartphone/#list-of-mcerebrum-apps",
-            "text": "Applications  Download      mCerebrum (Study)  latest release    AutoSense  latest release    Microsoft Band  latest release    Phone Sensor  latest release    Stream Processor  latest release    Mood Surfing  latest release    Thought Shakeup  latest release    Ecological Momentary Assessment (EMA)  latest release    EMA Scheduler  latest release    Notification Manager  latest release    Data stream plotter  latest release    DataKit  latest release",
-            "title": "List of mCerebrum Apps"
+            "location": "/smartphone/ui/#privacy",
+            "text": "Privacy Control allows users to turn off certain features for a limited period of time.   From the mCerebrum home screen, tap the  Turn On  button under the Privacy heading to access the privacy settings. From there, you can select which of the various sensor data collections and other features you wish to disable for the amount of time you choose. Simply set the timer and then select which features to disable. You will see a countdown timer, and the features will remain disabled until the timer expires.",
+            "title": "Privacy"
         },
         {
-            "location": "/smartphone/#software-release-schedule",
-            "text": "Major  X.0.0  software updates will occur approximately once per year  Minor/Feature  0.X.0  updates will occur on the third Wednesday of each month  Critical bug fixes  0.0.X  will be released as needed      Year  Month  Release Day      2017  February  02/15/2017  (Wed)    2017  March  03/15/2017  (Wed)    2017  April  04/19/2017  (Wed)    2017  May  05/17/2017  (Wed)    2017  June  06/21/2017  (Wed)    2017  July  07/18/2017  (Wed)    2017  August  08/16/2017  (Wed)    2017  September  09/20/2017  (Wed)    2017  October  10/18/2017  (Wed)    2017  November  11/15/2017  (Wed)    2017  December  12/20/2017  (Wed)",
-            "title": "Software Release Schedule"
+            "location": "/smartphone/ui/#admin-settings",
+            "text": "The following is a brief overview of some of the different features found in the admin settings of mCerebrum.",
+            "title": "Admin Settings"
+        },
+        {
+            "location": "/smartphone/ui/#study-setup",
+            "text": "",
+            "title": "Study Setup"
+        },
+        {
+            "location": "/smartphone/ui/#configuration",
+            "text": "Tap the Settings button (highlighted in red) to begin the setup process.  If prompted to download a configuration file, enter \u201cdefault\u201d and tap OK to use the default mCerebrum configuration file. If you are not prompted, skip this step.",
+            "title": "Configuration"
+        },
+        {
+            "location": "/smartphone/ui/#installupdate-apps",
+            "text": "mCerebrum uses a suite of software applications in conjunction with the main mCerebrum interface app. Follow these steps to download the latest versions of all the apps in your configuration of the mCerebrum suite.   From the main Settings screen, tap  Configure Applications   Applications  then tap the Check Updates button at the bottom of the screen.  If any apps listed show a red X icon  , tap the app in the list then tap  Install . If any apps listed show a yellow caution icon  , tap the app in the list then tap  Update . (Alternatively, you may tap the  Fix All  button at the bottom of the screen to begin the installation of all updates at once.)  When every app shows a green check mark  , all apps are installed and up-to-date. Tap the  Close  button.",
+            "title": "Install/Update Apps"
+        },
+        {
+            "location": "/smartphone/ui/#sensors-setup",
+            "text": "From the main Settings screen, tap  Configure Applications   Settings   PhoneSensor .  You will see a list of all the available sensors included with your phone (Battery, Location, Accelerometer, etc.). Tap to toggle on each sensor that you wish to use to collect data.  When you are finished, tap the  Save  button at the bottom of the screen.   Note : To ensure high-quality data collection, the GPS feature of the smartphone must be set to High Accuracy Mode in your phone\u2019s main settings (outside of the mCerebrum app).",
+            "title": "Sensors Setup"
+        },
+        {
+            "location": "/smartphone/ui/#study-setup_1",
+            "text": "From the main Settings screen, tap  Configure Study .  Tap  User ID  and set your desired unique user ID for the participant.  Tap  Wakeup Time  and select the time you expect data collection to begin each morning. The participant will receive a prompt to \u201cstart the day\u201d at the time you select.  Tap  Sleep Time  and select the time you expect data collection to conclude each day.  If all items on the Study Settings screen show a green check mark beside them, study setup is complete.  Tap the  Save  button at the bottom of the screen.",
+            "title": "Study Setup"
+        },
+        {
+            "location": "/smartphone/ui/#start-study",
+            "text": "From the main Settings screen, once Configure Applications and Configure Study show a green checkmark, tap the  Start Study  button to begin the study.  If prompted to start the day, tap the  Start  button to begin data collection.  Tap  Close  to exit the Settings screen. You should see the mCerebrum home screen below. Once you have tapped to start the day, data collection has begun.",
+            "title": "Start Study"
         },
         {
             "location": "/smartphone/",
