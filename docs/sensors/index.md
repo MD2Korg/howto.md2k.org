@@ -24,7 +24,7 @@ Easysense is a radio-frequency (RF) sensor that tracks fine-grain internal measu
 
 ![Autosense chest](../img/AutoSenseChest.png)
 
-The Autosense chest sensor is a wearable unit with an elastic chestband and connector cables. The sensor is designed to track heart rate through ECG monitors and respiration patterns by measuring lung volume and respiratory effort. These biomarkers can be used by the mCerebrum software to monitor and predict behaviors such as stress, eating, speaking, and smoking.
+Autosense chest sensor is a wearable unit with an elastic chestband and connector cables. The sensor is designed to track heart rate through ECG monitors and respiration patterns by measuring lung volume and respiratory effort. These biomarkers can be used by the mCerebrum software to monitor and predict behaviors such as stress, eating, speaking, and smoking.
 
 ## Oral-B Bluetooth Toothbrush
 
@@ -36,13 +36,20 @@ The Oral-B electric toothbrush with Bluetooth connectivity works with mCerebrum 
 
 ![Omron scale](../img/OmronScale.png)
 
-The Omron Weight Scale is a digital scale to track a user’s weight. The sensor uses Bluetooth technology and is integrated with mCerebrum software to monitor weight measurements and maintain records of weights taken at any given intervals over a period of time.
+Omron Weight Scale is a digital scale to track a user’s weight. The sensor uses Bluetooth technology and is integrated with mCerebrum software to monitor weight measurements and maintain records of weights taken at any given intervals over a period of time.
 
 ## Omron Blood Pressure Monitor
 
 ![Omron blood pressure](../img/OmronBP.png)
 
-The Omron Blood Pressure Monitor measures highly-accurate blood pressure readings to monitor a user’s blood pressure. In conjunction with mCerebrum software, these blood pressure readings can be taken at home with the push of a button and can be easily tracked over a period of time to improve patient care.
+Omron Blood Pressure Monitor measures highly-accurate blood pressure readings to monitor a user’s blood pressure. In conjunction with mCerebrum software, these blood pressure readings can be taken at home with the push of a button and can be easily tracked over a period of time to improve patient care.
+
+## Microsoft Band
+
+![Microsoft Band](../img/MicrosoftBand.png)
+
+Microsoft Band is a wearable wrist sensor and fitness tracker that contains accelerometer and gyroscope sensors useful in tracking hand gestures and activity. The on-screen display allows for delivery of intervention and other prompts directly to the user's wrist unit.
+
 
 ## Phone Sensors
 In addition to the sensors listed above, the mCerebrum software also utilizies many different sensors including in a smartphone itself. Each smartphone can provide valuable information through various sensors such as accelerometer, gyroscope, GPS, battery, and activity tracking.
