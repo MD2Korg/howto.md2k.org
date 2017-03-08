@@ -1,8 +1,8 @@
-# MD2K Software Platform
+# MD2K Software Platform How2
 ![Gather analyze and interpret health data directly on your phone](img/bluemanGraphicSmall.png)
 
 ## Introduction
-The MD2K software platform includes mobile phone software platform called mCerebrum and a cloud counterpart called Cerebral Cortex. mCerebrum is a configurable software platform for mobile and wearable sensors. It provides support for reliable data collection from mobile and wearable sensors, and real-time processing of these data for sensor triggered just-in-time adaptive interventions.
+The MD2K software platform includes mobile phone software platform called mCerebrum and a cloud counterpart called Cerebral Cortex. mCerebrum is a configurable software platform for mobile and wearable sensors. It provides support for reliable data collection from mobile and wearable sensors, and real-time processing of these data for sensor-triggered just-in-time adaptive interventions.
 
 Cerebral Cortex is the big data companion of mCerebrum designed to support population-scale data analysis, visualization, model development, and intervention design for mobile sensor data. It provides the ability to do machine learning model development on population scale data sets and provides interoperable interfaces for aggregation of diverse data sources.
 
