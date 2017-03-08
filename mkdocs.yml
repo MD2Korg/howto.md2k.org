@@ -29,7 +29,6 @@ pages:
   - Other Resources:
     - Helpful Links: resources/index.md
     - Data Protection: resources/dataProtection.md
-    - Testing Guidelines: resources/testingGuidelines.md
     - Contributors: resources/contributors.md
     - References: resources/references.md
     - License: resources/license.md
