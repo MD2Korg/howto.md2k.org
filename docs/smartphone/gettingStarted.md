@@ -3,8 +3,6 @@ mCerebrum is a suite of several Android applications that are combined with a se
 
 These instructions will guide you in downloading, installing, and configuring the mCerebrum software suite using the default configuration to collect **phone sensor data**.
 
-![Gather analyze and interpret health data](../img/bluemanGraphicSmall.png)
-
 ## Installation
 1. Download the [latest version of mCerebrum](https://github.com/MD2Korg/mCerebrum-Study/releases/latest) and install the APK file on an Android 5.0+ device.
 2. Follow the on-screen instructions on your Android device to complete the installation.
