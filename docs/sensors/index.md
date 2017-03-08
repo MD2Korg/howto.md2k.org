@@ -52,4 +52,7 @@ Microsoft Band is a wearable wrist sensor and fitness tracker that contains acce
 
 
 ## Phone Sensors
+
+![mCerebrum Home Screen](../img/mCerebrumOnPhone.png)
+
 In addition to the sensors listed above, the mCerebrum software also utilizies many different sensors including in a smartphone itself. Each smartphone can provide valuable information through various sensors such as accelerometer, gyroscope, GPS, battery, and activity tracking.
