@@ -1,7 +1,7 @@
 # User Interface
 The following is a brief overview of some of the different features found in the user interface of mCerebrum.
 
-![mCerebrum Home Screen](../img/mCerebrumHome.png)
+![mCerebrum Home Screen](../img/mCerebrumOnPhone.png)
 
 ## Visualize Real-Time Data
 Using the Plotter app included with mCerebrum, you can select from a list of available sensors to visualize each set of data in real-time.
