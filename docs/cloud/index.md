@@ -1,14 +1,11 @@
 # Cerebral Cortex
 
+![Cerebral Cortex Logo](../img/cerebralCortexLogoSmall.png)
 
 ## Introduction
-Cerebral Cortex is the big data cloud companion to mCerebrum designed to support population-scale analytics, model development, and data visualizations. One of the primary capabilities of Cerebral Cortex is its ability to support scalable big data machine learning model development and iterative data analysis and model generation across population-scale data sets. Models learned on population-scale data can be sent back to a smartphone in the field to improve detection and classification accuracy.
+**Cerebral Cortex is the big data cloud companion to mCerebrum** designed to support population-scale analytics, model development, and data visualizations. One of the primary capabilities of Cerebral Cortex is its ability to support scalable big data machine learning model development and iterative data analysis and model generation across population-scale data sets. Models learned on population-scale data can be sent back to a smartphone in the field to improve detection and classification accuracy.
 
-<!-- ![Cerebral Cortex Logo](../img/cerebralCortex-logo.png) -->
-
-It brings state-of-the-art research techniques and methodologies
-together in a single system to affect clinical outcomes with adaptable,
-just-in-time interventions delivered to participants in the field.
+**It brings state-of-the-art research techniques and methodologies together in a single system to affect clinical outcomes with adaptable, just-in-time interventions delivered to participants in the field.**
 
 ## Functionality and Architecture of Cerebral Cortex
 ![mCerebrum Architecture](../img/CerebralCortex-v3.png)
