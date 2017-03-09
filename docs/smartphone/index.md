@@ -7,7 +7,7 @@
 
 ## mCerebrum Overview
 
-mCerebrum is an open-source mobile software platform that provides support for reliable real-time data collection from sensors in smartphones and wearables.  The software is fully configurable and can be used with multiple sensors simultaneously to collect a wide variety of data at hundreds of data points per second.
+**mCerebrum is a configurable smartphone software platform for mobile and wearable sensors.** mCerebrum is open-source and provides support for reliable real-time data collection. The software is fully configurable and can be used with multiple sensors simultaneously to collect a wide variety of data at hundreds of data points per second.
 
 ![mCerebrum Home Screen](../img/mCerebrumOnPhone.png)
 
@@ -17,7 +17,7 @@ With mCerebrum, these markers obtained from sensor data can be used to trigger m
 
 ## Adopting mCerebrum
 
-The MD2K software platform is fully configurable and open-source. We invite you to use our software and we welcome contributions from anyone who is interested in improving mobile health. Please visit our [MD2K GitHub organization](https://www.github.com/MD2Korg/) and [Adopt MD2K pages](http://howto.md2k.org/adopt/) for more information. 
+The MD2K software platform is fully configurable and open-source. We invite you to use our software and we welcome contributions from anyone who is interested in improving mobile health. Please visit our [MD2K GitHub organization](https://www.github.com/MD2Korg/) and [Adopt MD2K pages](http://howto.md2k.org/adopt/) for more information.
 
 ## List of mCerebrum Apps
 
@@ -36,7 +36,13 @@ The MD2K software platform is fully configurable and open-source. We invite you 
 | [Data stream plotter](https://github.com/MD2Korg/mCerebrum-Plotter)                   | [latest release](https://github.com/MD2Korg/mCerebrum-Plotter/releases/latest) |
 | [DataKit](https://github.com/MD2Korg/mCerebrum-DataKit)                               | [latest release](https://github.com/MD2Korg/mCerebrum-DataKit/releases/latest) |
 
+## Background
+mCerebrum is backed by 9 years of software development on the [Fieldstream](http://www.fieldstream.org/) and [AutoSense](https://sites.google.com/site/autosenseproject/) projects which yielded in excess of 20,000 hours of wearable sensor data from a variety of lab and field studies with hundreds of participants. Over 27 research articles (with over 400 citations) have been published using analysis of these data (see list of articles below; go here for citations). mCerebrum is based on these extensive experiences with real-life high-frequency sensor data and its analysis for both technology and health research.
 
+The signal processing for Fieldstream and AutoSense were on a Matlab batch-processing codebase that operates on data after a participant has returned the data collection device to the lab. Therefore, no real-time sensor-triggered notifications or interventions were possible with the existing framework and furthermore, the codebase does not lend itself well to distributed processing for scalable application performance.
+
+## Novelty of MD2K
+mCerebrum, on the other hand, is designed to be compatible with mobile platforms so as to support real-time signal processing of high-frequency data streams in excess of 800 hertz, while meeting quality of service requirements for the mobile platform. In addition, mCerebrum is designed as an open-source project so that it can be easily used by the community and modified to suit specific research needs.
 
 ## Software Release Schedule
 - Major `X.0.0` software updates will occur approximately once per year
