@@ -41,7 +41,7 @@ mCerebrum is backed by 9 years of software development on the [Fieldstream](http
 
 The signal processing for Fieldstream and AutoSense were on a Matlab batch-processing codebase that operates on data after a participant has returned the data collection device to the lab. Therefore, no real-time sensor-triggered notifications or interventions were possible with the existing framework and furthermore, the codebase does not lend itself well to distributed processing for scalable application performance.
 
-## Novelty of MD2K
+## Novelty
 mCerebrum, on the other hand, is designed to be compatible with mobile platforms so as to support real-time signal processing of high-frequency data streams in excess of 800 hertz, while meeting quality of service requirements for the mobile platform. In addition, mCerebrum is designed as an open-source project so that it can be easily used by the community and modified to suit specific research needs.
 
 ## Software Release Schedule
