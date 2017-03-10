@@ -5,7 +5,7 @@ pages:
     - Overview: smartphone/index.md
     - Getting Started: smartphone/gettingStarted.md
     - User Interface: smartphone/ui.md
-    - Troubleshooting: smartphone/index.md
+    - Troubleshooting: smartphone/troubleshooting.md
   - Cloud Software:
     - Overview: cloud/index.md
     - Getting Started: cloud/index.md
