@@ -1,4 +1,3 @@
-## User Interface
 The following is a brief overview of some of the different features found in the user interface of mCerebrum.
 
 ![mCerebrum Home Screen](../img/mCerebrumOnPhone.png)
