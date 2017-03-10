@@ -46,12 +46,12 @@ mCerebrum uses a suite of software applications in conjunction with the main mCe
 1.	From the mCerebrum home screen, tap the *Plotter* button.
 2.	Select from the list of available sensors to visualize each set of data in real-time.
 
-![mCerebrum Home Screen](../img/plotterButton.png)
+![plotter button](../img/plotterButton.png)
 
 ## Privacy
 Privacy Control allows users to turn off certain features for a limited period of time.
 
-![mCerebrum Home Screen](../img/privacyActivate.png)
+![privacy button](../img/privacyActivate.png)
 
 1. From the mCerebrum home screen, tap the *Turn On* button under the Privacy heading.
 2. On the Privacy Control Settings screen, tap *Set Privacy Duration*. Select the amount of time for which you wish to disable the feature(s).
@@ -71,7 +71,7 @@ When you are ready to export the data you have collected, perform the following 
 6.	When the phone restarts, if the mCerebrum app opens, tap *Exit* to close it. (If mCerebrum does not open, skip this step.)
 7.	From the phone’s home screen, open the DataKit app and ensure it is INACTIVE.
 
-![mCerebrum Home Screen](../img/DatakitINACTIVE.png)
+![Datakit inactive](../img/DatakitINACTIVE.png)
 
 #### Save Data to a Computer
 1.	Connect the smartphone to a PC using the charging cable.
