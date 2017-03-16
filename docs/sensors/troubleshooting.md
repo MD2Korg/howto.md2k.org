@@ -1,14 +1,5 @@
 # Troubleshooting Guide
 
-## mCerebrum app crashing
-If the app crashes perpetually:
-
-- Clear all data from the DataKit app.
-- Clear all data from the mCerebrum app.
-- Delete the configuration folder located in the internal memory `/mCerebrum`
-- Make sure you have installed the proper update for each app.
-- Delete the mCerebrum app from the phone and re-install it.
-
 ## MotionSense Wrist
 
 <center><iframe src="https://www.youtube.com/embed/2n7HwLWlgtQ" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>
@@ -21,6 +12,14 @@ If you are experiencing poor data quality:
 - Restart the phone, wait one minute and check again.
 - Make sure the wrist sensor is charged.
 
+## mCerebrum app crashing
+If the app crashes perpetually:
+
+- Clear all data from the DataKit app.
+- Clear all data from the mCerebrum app.
+- Delete the configuration folder located in the internal memory `/mCerebrum`
+- Make sure you have installed the proper update for each app.
+- Delete the mCerebrum app from the phone and re-install it.
 
 ## Microsoft Band
 If you are experiencing bad data quality:
