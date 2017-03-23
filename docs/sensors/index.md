@@ -22,7 +22,7 @@ Easysense is a radio-frequency (RF) sensor that tracks fine-grain internal measu
 
 ## Autosense Chest Sensor
 
-![Autosense chest](../img/AutoSenseChest.png)  
+![Autosense chest unit](../img/AutoSenseChest.png)  
 
 Autosense chest sensor is a wearable unit with an elastic chestband and connector cables. The sensor is designed to track heart rate through ECG monitors and respiration patterns by measuring lung volume and respiratory effort. These biomarkers can be used by the mCerebrum software to monitor and predict behaviors such as stress, eating, speaking, and smoking.
 
