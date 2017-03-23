@@ -2,11 +2,11 @@
 **An Open Source Software Suite for Mobile Sensor Data**
 
 
-<center><iframe src="https://www.youtube.com/embed/GR3pahhXp4U" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>
+<center><iframe src="https://www.youtube.com/embed/g_WC0vpn5rU" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>
 
 ## mCerebrum Overview
 
-**mCerebrum is a configurable smartphone software platform for mobile and wearable sensors.** mCerebrum is open-source and provides support for reliable real-time data collection. The software is fully configurable and can be used with multiple sensors simultaneously to collect a wide variety of data at hundreds of data points per second. 
+**mCerebrum is a configurable smartphone software platform for mobile and wearable sensors.** mCerebrum is open-source and provides support for reliable real-time data collection. The software is fully configurable and can be used with multiple sensors simultaneously to collect a wide variety of data at hundreds of data points per second.
 
 ![mCerebrum Home Screen](../img/mCerebrumOnPhone.png)
 
