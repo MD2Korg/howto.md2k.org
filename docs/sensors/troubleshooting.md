@@ -11,7 +11,7 @@ If you are experiencing poor data quality:
 - Restart the phone, wait one minute and check again.
 - Make sure the wrist sensor is charged.
 
-For admins only:
+For admin access only:
 
 - Make sure the wrist sensor is paired to the phone with the correct ID number.
 - Make sure the Placement setting is designated for the correct wrist (left or right).
