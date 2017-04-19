@@ -7,7 +7,7 @@ The purpose of this procedure is to provide a set of recommendations for someone
 
 ### AutoSense
 
-### Microsoft Band
+### MotionSense
 
 ### Phone
 
