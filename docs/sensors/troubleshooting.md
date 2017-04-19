@@ -1,5 +1,5 @@
 # Troubleshooting Guide
-Below is a compilation of known sensor hardware issues (primarily concerning data collection) and troubleshooting steps that may correct the issues.
+Below is a compilation of known sensor hardware issues and troubleshooting steps you may use to correct them.
 
 
 ## MotionSense Wrist
