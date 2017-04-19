@@ -50,9 +50,6 @@ mCerebrum is designed to be compatible with mobile platforms so as to support **
 
 | Year |    Month   | Release Day       |
 |------|------------|-------------------|
-| 2017 | February   | 02/15/2017  (Wed) |
-| 2017 | March      | 03/15/2017  (Wed) |
-| 2017 | April      | 04/19/2017  (Wed) |
 | 2017 | May        | 05/17/2017  (Wed) |
 | 2017 | June       | 06/21/2017  (Wed) |
 | 2017 | July       | 07/18/2017  (Wed) |
