@@ -6,7 +6,7 @@ The MD2K software platform is configurable for a wide variety of mobile and wear
 
 ![Motionsense](../img/MotionSenseWrist.png)
 
-Motionsense HRV is a wearable wrist sensor that integrates accelerometer and gyroscope measurements. These biomarkers can be used to track the speed and orientation of hand gestures to monitor activities such as smoking, eating, brushing, and flossing.
+Motionsense HRV is a wearable wrist sensor that integrates accelerometer and gyroscope measurements. These biomarkers can be used to track the speed and orientation of hand gestures to monitor activities such as smoking, eating, driving, brushing, and flossing.
 
 ## Motionsense HRV Wrist Sensor
 
@@ -14,17 +14,17 @@ Motionsense HRV is a wearable wrist sensor that integrates accelerometer and gyr
 
 Motionsense HRV is a wearable wrist sensor that integrates accelerometer, gyroscope, and magnetometer measurements. This can be used to track hand gestures and monitor activities such as smoking, eating, and brushing teeth. This sensor also measures heart rate using signals that are detected and classified into different classes of reliability, resulting in estimates of heart rate variability (HRV) and respective confidence levels.
 
-## Easysense Chest Sensor
-
-![Easysense](../img/Easysense.png)
-
-Easysense is a radio-frequency (RF) sensor that tracks fine-grain internal measurements such as lung fluid and congestion. Rather than being wearable, the sensor is momentarily held to the chest to take quick measurements that penetrate clothing and tissue.
-
 ## Autosense Chest Sensor
 
 ![Autosense chest unit](../img/AutoSenseChest.png)  ![Autosense chest worn](../img/ASchestWorn.png)
 
 Autosense chest sensor is a wearable unit with an elastic chestband and connector cables. The sensor is designed to track heart rate through ECG monitors and respiration patterns by measuring lung volume and respiratory effort. These biomarkers can be used by the mCerebrum software to monitor and predict behaviors such as stress, eating, speaking, and smoking.
+
+## Easysense Chest Sensor
+
+![Easysense](../img/Easysense.png)
+
+Easysense is a radio-frequency (RF) sensor that tracks fine-grain internal measurements such as lung fluid and congestion. Rather than being wearable, the sensor is momentarily held to the chest to take quick measurements that penetrate clothing and tissue.
 
 ## Oral-B Bluetooth Toothbrush
 
